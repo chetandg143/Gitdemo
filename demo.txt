@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 78C1-B1AB
+
+ Directory of C:\Users\AG\Desktop\git
+
+26/03/2019  11:21 AM    <DIR>          .
+26/03/2019  11:21 AM    <DIR>          ..
+26/03/2019  11:21 AM                 0 demo.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  41,332,477,952 bytes free
